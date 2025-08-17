@@ -15,6 +15,8 @@ Its goal is to help users maintain a healthier lifestyle by tracking the dates a
 - Persistent storage with **CoreData**  
 - Built using **UIKit**  
 - **Delegation pattern** for screen communication
+- GIF animation on the main screen
+- Managing entries via the navigation bar
 
 ---
 
@@ -51,15 +53,15 @@ Its goal is to help users maintain a healthier lifestyle by tracking the dates a
    git clone https://github.com/radikdollar/fastfoodtracker.git
 
 2.	Open the project in Xcode:
-```bash
-   cd fastfoodtracker
-open fastfoodtracker.xcodeproj
-```
+   ```bash
+      cd fastfoodtracker
+   open fastfoodtracker.xcodeproj
+   ```
 3.	Build and run on a simulator or a physical device.
 
+---
 
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 Radion Vahromeev — iOS Developer
 @radikdollar
