@@ -11,6 +11,7 @@ Its goal is to help users maintain a healthier lifestyle by tracking the dates a
 - CoreData database storage implemented
 - Interface designed using AutoLayout
 - Delegation concept implemented between the settings screen and the main screen with information
+- MVC architecture
 - Calendar screen to view and manage records  
 - Persistent storage with **CoreData**  
 - Built using **UIKit**  
@@ -51,7 +52,7 @@ Its goal is to help users maintain a healthier lifestyle by tracking the dates a
 1. Clone the repository:
    ```bash
    git clone https://github.com/radikdollar/fastfoodtracker.git
-
+  
 2.	Open the project in Xcode:
    ```bash
       cd fastfoodtracker
