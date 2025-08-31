@@ -25,7 +25,7 @@ Its goal is to help users maintain a healthier lifestyle by tracking the dates a
 
 | Home Screen | Calendar Screen |
 |-------------|-----------------|
-| ![main](docs/screenshots/main.png) | ![calendar](docs/screenshots/calendar.png) |
+| ![main](docs/screenshots/main.png) | ![calendar](docs/screenshots/tracker.png) |
 
 *(You can add screenshots in `docs/screenshots` and link them here)*
 
