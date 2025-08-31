@@ -1,5 +1,9 @@
 # 🍔 FastFoodTracker
 
+<p align="left">
+  <img src="logo.png" width="200">
+</p>
+
 FastFoodTracker is an iOS application built with **Swift (UIKit + CoreData)**.  
 Its goal is to help users maintain a healthier lifestyle by tracking the dates and times when they consume fast food.  
 
@@ -22,12 +26,13 @@ Its goal is to help users maintain a healthier lifestyle by tracking the dates a
 ---
 
 ## 📱 Screenshots
-
-| Home Screen | Calendar Screen |
-|-------------|-----------------|
-| ![main](docs/screenshots/main.png) | ![calendar](docs/screenshots/tracker.png) |
-
-*(You can add screenshots in `docs/screenshots` and link them here)*
+ <p align="center">
+  <img src="main.png" width="300">
+    
+  <img src="tracker.png" width="300">
+  
+  <img src="load.png" width="300">
+</p>
 
 ---
 
